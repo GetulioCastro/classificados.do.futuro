@@ -9,5 +9,3 @@
 2) Faça um clone do repositório com o comando 'git clone'
 3) Instale o projeto em sua máquina com o comando: 'pip install -r requirements-dev.txt'
 4) Faça sua contribuição de melhoria para engrandecimento e aumento de conhecimento nesta linguagem de programação Python com framework Django
-
-
